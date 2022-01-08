@@ -1,10 +1,10 @@
-# Venus NFT
+# fCStar NFT
 Solidity contracts for VenusNFT Marketplace.
 
 1. Clone repo
 
 ```shell
-https://github.com/msilucifer/venus-nft/
+https://github.com/fashion-cstar/fashioncstar_nft/
 ```
 
 2. Install yarn packages
